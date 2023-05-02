@@ -1,2 +1,2 @@
 # Identification-of_natural-objects
-mobile app with neural network
+Mobile app with neural network
